@@ -1,0 +1,11 @@
+{
+    "name": "todoranov/booking",
+    "description": "Система за резервация на билети в театър. Дипломен проект. Използване на Composer.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Booking\\": "libraries/src/"
+        }
+    },
+    "require": {}
+}
